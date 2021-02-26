@@ -1,0 +1,90 @@
+-----------------------test_unet-----------------------------
+Epoch [1/40], Loss: 0.4429
+per epoch training cost Time 00 h:00 m:15 s
+IOU_final: 0.0
+DICE_final: 0.0
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [2/40], Loss: 0.2482
+per epoch training cost Time 00 h:00 m:13 s
+IOU_final: 0.04844144802127907
+DICE_final: 0.08785971360223076
+per epoch test cost Time 00 h:00 m:12 s
+Epoch [3/40], Loss: 0.1844
+per epoch training cost Time 00 h:00 m:13 s
+IOU_final: 0.18182418850568957
+DICE_final: 0.2724617497368162
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [4/40], Loss: 0.1604
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.2015726660428459
+DICE_final: 0.2731190126840844
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [5/40], Loss: 0.1463
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.08920484721839592
+DICE_final: 0.12230620422562334
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [6/40], Loss: 0.1344
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.27007413773336997
+DICE_final: 0.37059678136257823
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [7/40], Loss: 0.1242
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.19834170064939838
+DICE_final: 0.258422780575552
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [8/40], Loss: 0.1178
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.05650844291678522
+DICE_final: 0.085214282844009
+per epoch test cost Time 00 h:00 m:14 s
+Epoch [9/40], Loss: 0.1173
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.2557748175574073
+DICE_final: 0.3422545701121433
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [10/40], Loss: 0.1119
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.1673320920354679
+DICE_final: 0.2192526316935523
+per epoch test cost Time 00 h:00 m:14 s
+-----------------------test_unet-----------------------------
+reload success! from epoch 8
+Epoch [9/40], Loss: 0.1307
+per epoch training cost Time 00 h:00 m:15 s
+IOU_final: 0.1617589656953551
+DICE_final: 0.23848105817902637
+per epoch test cost Time 00 h:00 m:12 s
+Epoch [10/40], Loss: 0.1212
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.14630477849359208
+DICE_final: 0.19323314729539762
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [11/40], Loss: 0.1144
+per epoch training cost Time 00 h:00 m:13 s
+IOU_final: 0.10590811091215128
+DICE_final: 0.1486333172540169
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [12/40], Loss: 0.1073
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.2364586731098591
+DICE_final: 0.30689261948014857
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [13/40], Loss: 0.1006
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.2837715090809422
+DICE_final: 0.38597153358918757
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [14/40], Loss: 0.0947
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.2475779184914348
+DICE_final: 0.3133226473328856
+per epoch test cost Time 00 h:00 m:13 s
+Epoch [15/40], Loss: 0.0890
+per epoch training cost Time 00 h:00 m:14 s
+IOU_final: 0.1344563348534023
+DICE_final: 0.17653436206266793
+per epoch test cost Time 00 h:00 m:12 s
+Epoch [16/40], Loss: 0.0842
+per epoch training cost Time 00 h:00 m:14 s

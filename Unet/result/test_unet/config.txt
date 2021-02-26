@@ -1,0 +1,11 @@
+result_path: ./result\test_unet
+Task_name: test_unet
+data_path: G:/graduation project/TN-SCUI2020/my_code/1_or_data/image
+image_size: 96
+num_epochs: 40
+batch_size: 60
+save_model_step: 2
+lr: 0.0001
+last_epoch: 8
+model_path: ./result\test_unet\models
+log_dir: ./result\test_unet\logs
